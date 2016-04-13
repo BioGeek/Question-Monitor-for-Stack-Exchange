@@ -73,6 +73,22 @@ st.NETWORK_INFO = {
   'gamedev': {
     name: 'Game Development',
     root: 'gamedev.stackexchange.com'
+  },
+  'biology': {
+    name: 'Biology Stack Exchange',
+    root: 'biology.stackexchange.com'
+  },
+  'unix': {
+    name: 'Unix & Linux Stack Exchange',
+    root: 'unix.stackexchange.com'
+  },
+  'stats': {
+    name: 'Cross Validated',
+    root: 'stats.stackexchange.com'
+  },
+  'cs': {
+    name: 'Computer Science Stack Exchange',
+    root: 'cs.stackexchange.com'
   }
 };
 
