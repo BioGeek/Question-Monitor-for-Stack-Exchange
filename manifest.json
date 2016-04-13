@@ -1,6 +1,6 @@
 {
   "name": "Question Monitor for Stack Exchange",
-  "version": "0.9.1",
+  "version": "0.9.2",
   "manifest_version": 2,
   "description": "Tracks relevant unanswered questions on the Stack Exchange network.",
   "icons": {
